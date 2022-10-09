@@ -104,3 +104,8 @@ transition: all 0.2s ease-in-out;
 i{
     color: #2E3440;
   }
+  @media (max-width: 1250px) {
+  a{
+      font-size: 16px;
+    }
+}
